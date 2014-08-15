@@ -1,4 +1,4 @@
-server
+Blueprint configuration
 ======
 
-jboss server
+This is a folder for blueprint configuration
