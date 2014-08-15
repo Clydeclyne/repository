@@ -9,7 +9,7 @@ blueprint:
   locations:
     modules: 
       - src-repo: clydeforj
-        git: https://github.com/daihaojun/bp-example.git
+        git: https://github.com/Clydeclyne/repository.git
         install:
           puppet-apply: install
         uninstall:
