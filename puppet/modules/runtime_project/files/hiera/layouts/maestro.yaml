@@ -30,7 +30,7 @@ maestro::nodes:
 # shortname is a descriptive name, TODO: source this from the blueprint data.
 jimador::site:
   maestro_url: "http://%{::maestro::node_vhost_lookup::vname}"
-  shortname: "bp-example"
+  shortname: "clydeforj"
 
 maestro::dns::global::default_contact: 'admin@%{::erodomain}'
 
